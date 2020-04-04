@@ -1,0 +1,22 @@
+{
+	"value": [{
+			"sitename": "163",
+			"telephone": "13812345678",
+			"state": "1"
+
+		},
+		{
+			"sitename": "164",
+			"telephone": "13812345679",
+			"state": "2"
+
+		},
+		{
+			"sitename": "165",
+			"telephone": "13812345679",
+			"state": "3"
+
+		}
+
+	]
+}
